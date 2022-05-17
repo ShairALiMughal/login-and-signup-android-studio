@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22148533529",
+    "project_id": "ali123-7c51d",
+    "storage_bucket": "ali123-7c51d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22148533529:android:08624de59aa1e5719d4988",
+        "android_client_info": {
+          "package_name": "com.example.shairaliassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22148533529-s8h1knlbjvqcdgjibjvqmm9so1iqeohe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF468X_X8-Tq4rjHLDxZpeEKyDVz3z9G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22148533529-s8h1knlbjvqcdgjibjvqmm9so1iqeohe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
